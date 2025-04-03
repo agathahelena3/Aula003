@@ -11,6 +11,6 @@ if combustivel == "g" or combustivel == "G":
   valor = g * litros
 elif combustivel == "e" or combustivel == "E":
     valor =  e * litros
-else: print ("Opção inválida. Selecione uma das opções.")
+else: print ("Opção inválida. Selecione uma das opções.g")
 
 print (f"Você deverá pagar, R${valor:.2f}")
